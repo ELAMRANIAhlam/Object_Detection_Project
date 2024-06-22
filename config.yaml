@@ -1,0 +1,18 @@
+path: "C:/Users/lenovo/PycharmProjects/Projet_stage_detection/Dataset" # Répertoire racine du jeu de données
+train: "train/images"  # Images d'entraînement (chemin relatif à 'path')
+val: "valid/images"  # Images de validation (chemin relatif à 'path')
+
+# Classes
+names:
+  0: car  # Définition de la classe avec l'identifiant 0 correspondant à "car"
+
+
+
+
+
+
+
+
+
+
+
